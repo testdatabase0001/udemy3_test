@@ -1,4 +1,4 @@
 # udemy3_test
-'''javascript
+```javascript
 console.log("test");
-'''
+```
